@@ -44,4 +44,4 @@ module.exports = {
   },
   plugins: [],
 }
-exports = {}
+export {}
