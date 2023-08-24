@@ -25,8 +25,8 @@ const HeroSection = () => {
             <span className="font-semibold text-teal-600">
               Aspiring Software Engineer{" "}
             </span>
-            based in Iselin, NJ, working to become a Software
-            Engineer!
+            based in Iselin, NJ, working towards building
+            impactful software!
           </p>
         </div>
       </div>
