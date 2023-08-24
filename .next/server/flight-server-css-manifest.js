@@ -1,10 +1,1 @@
-self.__RSC_CSS_MANIFEST={
-  "__entry_css_mods__": {
-    "C:\\Users\\breeze\\Desktop\\IntroCS\\yashshah41.github.io\\app\\page": [
-      "C:\\Users\\breeze\\Desktop\\IntroCS\\yashshah41.github.io\\styles\\globals.css"
-    ]
-  },
-  "C:\\Users\\breeze\\Desktop\\IntroCS\\yashshah41.github.io\\app\\layout.tsx": [
-    "C:\\Users\\breeze\\Desktop\\IntroCS\\yashshah41.github.io\\styles\\globals.css"
-  ]
-}
+self.__RSC_CSS_MANIFEST={"__entry_css_mods__":{"C:\\Users\\breeze\\Desktop\\IntroCS\\yashshah41.github.io\\app\\page":["C:\\Users\\breeze\\Desktop\\IntroCS\\yashshah41.github.io\\styles\\globals.css"]},"C:\\Users\\breeze\\Desktop\\IntroCS\\yashshah41.github.io\\app\\layout.tsx":["C:\\Users\\breeze\\Desktop\\IntroCS\\yashshah41.github.io\\styles\\globals.css"]}
