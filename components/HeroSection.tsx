@@ -28,7 +28,7 @@ const HeroSection = () => {
             based in Iselin, NJ, working towards building
             impactful software!
           </p>
-          <a href = "https://github.com/yashshah41">
+          <a href = "https://github.com/yashshah41" target = "_blank">
           <button className ="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700">
             Projects
           </button>
