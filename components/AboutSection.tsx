@@ -34,34 +34,42 @@ const AboutSection = () => {
               Get to know me!
             </h1>
             <p>
-              Hi, my name is Yash and I am a{" "}
-              <span className="font-bold">{"highly ambitious"}</span>,
-              <span className="font-bold">{" self-motivated"}</span>, and
-              <span className="font-bold">{" curious"}</span>  aspiring software engineer
+              Hey, whats up! my name is Yash and I am a{" "}
+              <span className="font-bold">{" funny (self-proclaimed)"}</span>,
+              <span className="font-bold">{" curious"}</span>, and
+              <span className="font-bold">{" outgoing"}</span>  aspiring software engineer
               based in Iselin, NJ.
             </p>
             <br />
             <p>
-              
-              Curently a sophomore at Rutgers University in New Brunswick, NJ, I plan to graduate in May of 2026 with
-              a B.S in Computer Science and Economics with a minor in Mathematics.
-              I am really interested in software development and am open to any
-              opportunities within the field!
+              I am currenty a sophomore at Rutgers University stuyding CS and Economics.
+              I am interested in pursuing a career in in full stack software development and
+              am open to any opportunties the field!
               </p>
               <br />
-              <p>
-              I have a wide range of hobbies and passions ——reading books, watching basketball, and trying
-              new restaraunts. I always try to seek new experiences in everything I do, from trying new foods to 
-              learning new technologies.    
+            <p>
+              I speak fluent Java, Python, JavaScript, and TypeScript (as well as secondary languages like English, Hindi and Gujarati).
+              I'm also convinced that debugging is just detective work with some more steps. My laptop is my partner-in-crime,
+              we're on a quest to save the world from endless runtime errors and missing ;'s.
+              <br />
+              <br />
+              Economics, for me, is like a never-ending puzzle that is always evolving. I love diving into the technical trends of consumer and
+              producer decision making, data that is like modern art to me, and debates about fiscal policy that can put a heated game of Monopoly
+              to shame.
+              <br />
+              <br />
+              When I finally step away from the pixels and price elasticity, you'll find me hiking the trails,
+              channeling my inner coffee connoisseur in local cafés, or attempting to live out my NBA dreams
+              at the park. 
             </p>
             <br />
           
             <p>
-              I believe that you should{" "}
+              A beI believe that you should{" "}
               <span className="font-bold text-teal-500">
                 always stay curious
               </span>{" "}
-              in whatever you do. I have a passion for
+              in whatever you choose to-do. I have a passion for
               technology and a desire to always push the limits of what is
               possible and build something innovative. I am excited to see
               where my career takes me and am always open to new opportunities.

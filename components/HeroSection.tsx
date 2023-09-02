@@ -3,7 +3,6 @@ import React from "react"
 import Image from "next/image"
 import { Link } from "react-scroll/modules"
 import { HiArrowDown } from "react-icons/hi"
-
 const HeroSection = () => {
 
   return (
@@ -29,8 +28,13 @@ const HeroSection = () => {
             impactful software!
           </p>
           <a href = "https://github.com/yashshah41" target = "_blank">
-          <button className ="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700">
+          <button className ="mr-4 text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700 margin: 20px">
             Projects
+          </button>
+          </a>
+          <a href = "/Yash_Shah_resume.pdf" target = "_blank" >
+          <button className ="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700">
+            Resume
           </button>
           </a>
         </div>
