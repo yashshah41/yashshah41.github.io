@@ -88,7 +88,17 @@ const AboutSection = () => {
                   </p>
                 )
               })}
+              
             </div>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            
             <Image
               src="/hero-image.png"
               alt=""
