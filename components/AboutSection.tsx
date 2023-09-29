@@ -49,29 +49,22 @@ const AboutSection = () => {
               <br />
             <p>
               I speak fluent Java, Python, JavaScript, and TypeScript (as well as secondary languages like English, Hindi and Gujarati).
-              I'm also convinced that debugging is just detective work with some more steps. My laptop is my partner-in-crime,
-              we're on a quest to save the world from endless runtime errors and missing ;'s.
+              I really enjoy building full-stack web applications utilizing different technologies and exposing myself to new things.
               <br />
               <br />
-              Economics, for me, is like a never-ending puzzle that is always evolving. I love diving into the technical trends of consumer and
-              producer decision making, data that is like modern art to me, and debates about fiscal policy that can put a heated game of Monopoly
-              to shame.
-              <br />
-              <br />
-              When I finally step away from the pixels and price elasticity, you'll find me hiking the trails,
-              channeling my inner coffee connoisseur in local cafés, or attempting to live out my NBA dreams
-              at the park. 
+              Outside of that, when I am not behind my computer, you'll find me hiking trails, channeling my
+              inner coffee connoisseur at local cafés, or attempting to live out my NBA dreams at the park. 
             </p>
             <br />
           
             <p>
-              A beI believe that you should{" "}
+              One thing I believe is to{" "}
               <span className="font-bold text-teal-500">
                 always stay curious
               </span>{" "}
-              in whatever you choose to-do. I have a passion for
-              technology and a desire to always push the limits of what is
-              possible and build something innovative. I am excited to see
+              in whatever I am doing. I have a passion for
+              technology and a desire to always push the limits by building something innovative
+              that can make an impact on as many people as possible. I am excited to see
               where my career takes me and am always open to new opportunities.
             </p>
           </div>
