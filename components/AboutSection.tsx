@@ -43,13 +43,15 @@ const AboutSection = () => {
             <br />
             <p>
               I am currenty a sophomore at Rutgers University stuyding CS and Economics.
-              I am interested in pursuing a career in in full stack software development and
-              am open to any opportunties the field!
+              I am interested in exploring a career in software development or data science and
+              am open to any opportunties the either field!
               </p>
               <br />
             <p>
-              I speak fluent Java, Python, JavaScript, and TypeScript (as well as secondary languages like English, Hindi and Gujarati).
               I really enjoy building full-stack web applications utilizing different technologies and exposing myself to new things.
+              Specifically, I have been exposing myself to newer ML/AI models like GPT-4 and others in the Transformers family, which offer advanced
+              natural language processing and generation capabilities. These models have broadened my interest in how to integrate AI into
+              web applications to create more interactive and intelligent user experiences.
               <br />
               <br />
               Outside of that, when I am not behind my computer, you'll find me hiking trails, channeling my
