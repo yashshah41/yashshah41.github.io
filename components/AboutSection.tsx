@@ -48,10 +48,11 @@ const AboutSection = () => {
               </p>
               <br />
             <p>
-              I really enjoy building full-stack web applications utilizing different technologies and exposing myself to new things.
-              Specifically, I have been exposing myself to newer ML/AI models like GPT-4 and others in the Transformers family, which offer advanced
-              natural language processing and generation capabilities. These models have broadened my interest in how to integrate AI into
-              web applications to create more interactive and intelligent user experiences.
+            I really enjoy building full-stack web applications utilizing different technologies and exposing myself to new things.
+              Recently, I have been interested in ML/AI, particularly NLP, and have been exposing myself to
+              newer transformer models like GPT-4, which offer advanced natural language processing and generation capabilities. 
+              These models have broadened my interest in how to integrate AI into web applications to create more
+              interactive and intelligent user experiences.
               <br />
               <br />
               Outside of that, when I am not behind my computer, you'll find me hiking trails, channeling my
