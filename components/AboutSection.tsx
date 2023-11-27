@@ -34,22 +34,19 @@ const AboutSection = () => {
               Get to know me!
             </h1>
             <p>
-              Hey, whats up! my name is Yash and I am a{" "}
-              <span className="font-bold">{" funny (self-proclaimed)"}</span>,
-              <span className="font-bold">{" curious"}</span>, and
-              <span className="font-bold">{" outgoing"}</span>  aspiring software engineer
+              Hey, what's up! my name is Yash, and I am an aspiring software engineer
               based in Iselin, NJ.
             </p>
             <br />
             <p>
-              I am currenty a sophomore at Rutgers University stuyding CS and Economics.
-              I am interested in exploring a career in software development or data science and
-              am open to any opportunties the either field!
+              I am currently a student at Rutgers University studying CS and Economics.
+              I am interested in exploring a career in software development and
+              am open to any opportunities in the field!
               </p>
               <br />
             <p>
-            I really enjoy building full-stack web applications utilizing different technologies and exposing myself to new things.
-              Recently, I have been interested in ML/AI, particularly NLP, and have been exposing myself to
+              I enjoy building full-stack web applications utilizing different technologies and exposing myself to new things.
+              Recently, I have been interested in ML/AI, particularly NLP, and have told myself about
               newer transformer models like GPT-4, which offer advanced natural language processing and generation capabilities. 
               These models have broadened my interest in how to integrate AI into web applications to create more
               interactive and intelligent user experiences.
@@ -68,7 +65,7 @@ const AboutSection = () => {
               in whatever I am doing. I have a passion for
               technology and a desire to always push the limits by building something innovative
               that can make an impact on as many people as possible. I am excited to see
-              where my career takes me and am always open to new opportunities.
+              where my career takes me, and I am always open to new opportunities.
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">
