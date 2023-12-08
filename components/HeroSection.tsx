@@ -32,11 +32,7 @@ const HeroSection = () => {
             Projects
           </button>
           </a>
-          <a href = "/Yash_Shah_resume.pdf" target = "_blank" >
-          <button className ="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700">
-            Resume
-          </button>
-          </a>
+          
         </div>
       </div>
       <div className="flex flex-row items-center text-center justify-center ">

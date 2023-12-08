@@ -40,16 +40,16 @@ const AboutSection = () => {
             <br />
             <p>
               I am currently a student at Rutgers University studying CS and Economics.
-              I am interested in exploring a career in software development and
-              am open to any opportunities in the field!
+              I am interested in exploring a career in technology and am open to any
+              opportunities in the field!
               </p>
               <br />
             <p>
               I enjoy building full-stack web applications utilizing different technologies and exposing myself to new things.
-              Recently, I have been interested in ML/AI, particularly NLP, and have told myself about
+              Recently, I have been interested in ML/AI, particularly NLP, and have introduced myself to
               newer transformer models like GPT-4, which offer advanced natural language processing and generation capabilities. 
               These models have broadened my interest in how to integrate AI into web applications to create more
-              interactive and intelligent user experiences.
+              interactive and intelligent user experiences. 
               <br />
               <br />
               Outside of that, when I am not behind my computer, you'll find me hiking trails, channeling my
